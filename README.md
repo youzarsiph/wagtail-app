@@ -1,16 +1,16 @@
-# drf-app
+# wagtail-app
 
-[![CI](https://github.com/youzarsiph/drf-app/actions/workflows/ci.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/ci.yml)
-[![CD](https://github.com/youzarsiph/drf-app/actions/workflows/cd.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/cd.yml)
-[![Code Style: Black](https://github.com/youzarsiph/drf-app/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/black.yml)
-[![Code Linting: Ruff](https://github.com/youzarsiph/drf-app/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/ruff.yml)
-[![Code Testing](https://github.com/youzarsiph/drf-app/actions/workflows/tests.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/tests.yml)
-[![Docker Image](https://github.com/youzarsiph/drf-app/actions/workflows/docker-image.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/docker-image.yml)
-[![Docker Publish](https://github.com/youzarsiph/drf-app/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/youzarsiph/drf-app/actions/workflows/docker-publish.yml)
-[![PyPI - Version](https://img.shields.io/pypi/v/drf-app?logo=pypi&logoColor=white)](https://pypi.org/project/drf-app/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/drf-app?logo=python&logoColor=white)](https://pypi.org/project/drf-app/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/drf-app?logo=pypi&logoColor=white)](https://pypi.org/project/drf-app/)
-[![PyPI - License](https://img.shields.io/pypi/l/drf-app?logo=pypi&logoColor=white)](https://pypi.org/project/drf-app/)
+[![CI](https://github.com/youzarsiph/wagtail-app/actions/workflows/ci.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/ci.yml)
+[![CD](https://github.com/youzarsiph/wagtail-app/actions/workflows/cd.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/cd.yml)
+[![Code Style: Black](https://github.com/youzarsiph/wagtail-app/actions/workflows/black.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/black.yml)
+[![Code Linting: Ruff](https://github.com/youzarsiph/wagtail-app/actions/workflows/ruff.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/ruff.yml)
+[![Code Testing](https://github.com/youzarsiph/wagtail-app/actions/workflows/tests.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/tests.yml)
+[![Docker Image](https://github.com/youzarsiph/wagtail-app/actions/workflows/docker-image.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/docker-image.yml)
+[![Docker Publish](https://github.com/youzarsiph/wagtail-app/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/youzarsiph/wagtail-app/actions/workflows/docker-publish.yml)
+[![PyPI - Version](https://img.shields.io/pypi/v/wagtail-app?logo=pypi&logoColor=white)](https://pypi.org/project/wagtail-app/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wagtail-app?logo=python&logoColor=white)](https://pypi.org/project/wagtail-app/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/wagtail-app?logo=pypi&logoColor=white)](https://pypi.org/project/wagtail-app/)
+[![PyPI - License](https://img.shields.io/pypi/l/wagtail-app?logo=pypi&logoColor=white)](https://pypi.org/project/wagtail-app/)
 
 ## Overview
 
@@ -108,7 +108,7 @@ We warmly welcome contributions from the community. Please refer to our [CONTRIB
 
 ## Support
 
-For inquiries or support, please open an issue or join the discussion in the [GitHub Discussions](https://github.com/youzarsiph/drf-app/discussions) section to engage with the community.
+For inquiries or support, please open an issue or join the discussion in the [GitHub Discussions](https://github.com/youzarsiph/wagtail-app/discussions) section to engage with the community.
 
 ## Licensing
 
